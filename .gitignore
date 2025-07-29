@@ -1,0 +1,14 @@
+.vscode
+.exe
+*.dll
+*.pdb
+*.obj
+*.lib
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.cache
+*.log
+*.tmp
