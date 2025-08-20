@@ -1,4 +1,4 @@
-# 📚 Fundamentos de Informática
+# 📚 Fundamentos de Informática.
 
 Este repositorio contiene material educativo para un curso introductorio de **Fundamentos de Informática** utilizando C++.
 
